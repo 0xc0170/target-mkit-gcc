@@ -1,0 +1,27 @@
+{
+  "name": "mkit-gcc",
+  "version": "0.0.0",
+   "inherits": {
+    "nordic-nrf51822-16k-gcc": "*"
+  },
+  "description": "Official mbed build target for the nrf51822 16KB chip.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "keywords": [
+    "mbed-official",
+    "gcc"
+  ],
+  "similarTo": [
+    "mbed",
+    "arm",
+    "gcc",
+    "mkit"
+  ],
+  "config": {
+  },
+  "toolchain": "CMake/toolchain.cmake"
+}
