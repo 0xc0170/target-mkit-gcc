@@ -16,9 +16,6 @@
     "gcc"
   ],
   "similarTo": [
-    "mbed",
-    "arm",
-    "gcc",
     "mkit"
   ],
   "config": {
