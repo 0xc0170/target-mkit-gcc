@@ -18,6 +18,5 @@
   "similarTo": [
     "mkit"
   ],
-  "config": {},
-  "toolchain": "CMake/toolchain.cmake"
+  "config": {}
 }
