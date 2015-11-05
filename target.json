@@ -18,7 +18,6 @@
   "similarTo": [
     "mkit"
   ],
-  "private": true,
   "config": {
     "hardware": {
       "pins": {
