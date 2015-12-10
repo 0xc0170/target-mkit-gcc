@@ -17,6 +17,7 @@
     }
   ],
   "keywords": [
+    "mbed-target:nrf51822",
     "mbed-official",
     "gcc"
   ],
